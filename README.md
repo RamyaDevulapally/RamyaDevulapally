@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web Applications, Database and Object Oriented Programming.
+- 🔭 I’m currently working on Web Applications, Big Data, Database and Data Visualization.
 - 🌱 I’m currently learning software technologies.
 - 👯 I’m looking to collaborate on Full Stack Development.
 - 🤔 I’m looking for help with Database.
